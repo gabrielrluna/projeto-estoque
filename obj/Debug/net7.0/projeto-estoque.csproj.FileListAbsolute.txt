@@ -1,0 +1,15 @@
+C:\Users\chies\Desktop\Codes\projeto-estoque\bin\Debug\net7.0\projeto-estoque.exe
+C:\Users\chies\Desktop\Codes\projeto-estoque\bin\Debug\net7.0\projeto-estoque.deps.json
+C:\Users\chies\Desktop\Codes\projeto-estoque\bin\Debug\net7.0\projeto-estoque.runtimeconfig.json
+C:\Users\chies\Desktop\Codes\projeto-estoque\bin\Debug\net7.0\projeto-estoque.dll
+C:\Users\chies\Desktop\Codes\projeto-estoque\bin\Debug\net7.0\projeto-estoque.pdb
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.csproj.AssemblyReference.cache
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.AssemblyInfoInputs.cache
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.AssemblyInfo.cs
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.csproj.CoreCompileInputs.cache
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.dll
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\refint\projeto-estoque.dll
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.pdb
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\projeto-estoque.genruntimeconfig.cache
+C:\Users\chies\Desktop\Codes\projeto-estoque\obj\Debug\net7.0\ref\projeto-estoque.dll
